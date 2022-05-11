@@ -1,0 +1,3 @@
+"hello-string" = "Hello!";
+"introduction-string %@" = "My name is %@.";
+"description-string" = "This is an example.";
